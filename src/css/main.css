@@ -31,11 +31,10 @@ header {
 }
 .tools {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
 }
 .tool-1 {
   display: flex;
-  align-items: flex-start;
   border-radius: 32px;
   background: #fff;
   display: flex;
@@ -46,7 +45,6 @@ header {
 }
 .tool-2 {
   display: flex;
-  align-items: flex-start;
   border-radius: 32px;
   background: #fff;
   display: flex;
